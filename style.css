@@ -1,0 +1,9 @@
+.ui.borderless.topmenu.container.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.item {
+  font-size: 16px;
+}
+
